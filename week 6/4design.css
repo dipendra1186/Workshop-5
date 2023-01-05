@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ .container{
+    min-height: 50vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+body{
+    background-color: orange;
+}
+h1{
+    font-style: normal;
+    font-size: bold;
+    color: rgb(65, 102, 222);
+    padding-left: 5%;
+    padding-right: 5%;
+}
+p{
+    font-size: bold;
+    padding: 0%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 75vw;
+    height: 50vh;
+    display: block;
+    padding: 0;
+}
